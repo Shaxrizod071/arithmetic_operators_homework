@@ -6,3 +6,4 @@ b=5
 c=a+b
 #Print the value of the 'result
 print(c)
+
